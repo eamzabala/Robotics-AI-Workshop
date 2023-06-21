@@ -1,1 +1,2 @@
-# Tracks code and photos from SIP - NUS Robotics & AI Workshop
+NUS Robotics & AI Specialized Workshop
+Includes my code and my photos
